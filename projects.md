@@ -5,5 +5,7 @@
 * Bluetooth + pulse audio combiner - multiple computers + phone to one set of headphones. Maybe incorporate virtual mixer + kvm(synergy)
 * Rebuid Home network - ipv6, improved wifi, improved monitoring, pxe boot server, secure + guest access.
 * Home IoT - Temperature, light, humidity, gas sensors, door+window switches, Blutooth/Wifi/NFC presence info.
+* Home Desk - Sit/Stand, good lighting on work surface, displays off the surface. 
+* Personal assistant - Bluetooth headset + Alexa voice kit / mycroft.ai / etc
 * 
 
