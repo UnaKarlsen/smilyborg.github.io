@@ -4,7 +4,10 @@
 * Sysdig - http://www.sysdig.org/install/
 * Keybase.io - https://keybase.io
 * Chef - https://www.chef.io/chef/
-
+* GitHub Desktop - https://desktop.github.com/
+* git - https://git-scm.com/
+* Sublime Text - https://www.sublimetext.com/
+* Visual Studio Code - https://code.visualstudio.com/ 
 
 ## Want to try
 * Vault - https://www.vaultproject.io/
@@ -30,5 +33,12 @@
 * Weave
 * Powerstrip
 * Helios
+* Atom - https://atom.io/
+* Rancher - http://rancher.com/rancher/
+* RancherOS - http://rancher.com/rancher-os/
+* CoreOS - https://coreos.com/
+* Flannel - https://github.com/coreos/flannel/
+* Yubikey - https://www.yubico.com/
+* 
 
 
