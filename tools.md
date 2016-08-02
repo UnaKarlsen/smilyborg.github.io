@@ -43,6 +43,6 @@
 * CoreOS - https://coreos.com/
 * Flannel - https://github.com/coreos/flannel/
 * Yubikey - https://www.yubico.com/
+* Github Pages - https://pages.github.com/ Jekyll https://jekyllrb.com/docs/quickstart/
+* Remark - https://github.com/gnab/remark
 * 
-
-
