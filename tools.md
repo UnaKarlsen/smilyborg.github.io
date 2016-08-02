@@ -9,6 +9,9 @@
 * Sublime Text - https://www.sublimetext.com/
 * Visual Studio Code - https://code.visualstudio.com/ 
 
+## Tools that might need a replacement
+* Synergy - http://symless.com/synergy/ - used to share keyboard+mouse between Linux/windows/mac systems - having pauses in mouse movement on Mac client. May be wifi related.
+
 ## Want to try
 * Vault - https://www.vaultproject.io/
 * Consul - https://www.consul.io/
