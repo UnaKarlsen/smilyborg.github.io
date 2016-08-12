@@ -10,6 +10,10 @@
 * Visual Studio Code - https://code.visualstudio.com/
 * Synergy - http://symless.com/synergy/
 
+## Currently trying
+* Remark - https://github.com/gnab/remark
+* Markdown - https://daringfireball.net/projects/markdown/ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 ## Tools that might need a replacement
 * 
 
@@ -52,6 +56,8 @@
 
 * Github Pages - https://pages.github.com/ Jekyll https://jekyllrb.com/docs/quickstart/
 * Remark - https://github.com/gnab/remark
+* Static site generators - https://www.staticgen.com/
+* Markdown - https://daringfireball.net/projects/markdown/ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 * Brew/Homebrew - http://brew.sh/
 * Homebrew Cask - https://caskroom.github.io/
