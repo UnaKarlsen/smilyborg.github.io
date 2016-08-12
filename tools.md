@@ -58,6 +58,9 @@
 * Remark - https://github.com/gnab/remark
 * Static site generators - https://www.staticgen.com/
 * Markdown - https://daringfireball.net/projects/markdown/ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* http://acetate.io/ https://github.com/patrickarlt/acetate
+* http://shields.io/
+
 
 * Brew/Homebrew - http://brew.sh/
 * Homebrew Cask - https://caskroom.github.io/
