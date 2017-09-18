@@ -64,3 +64,10 @@
 
 * Brew/Homebrew - http://brew.sh/
 * Homebrew Cask - https://caskroom.github.io/
+
+* bpython - https://www.bpython-interpreter.org
+* fishshell - https://fishshell.com/
+
+* pipsi - https://github.com/mitsuhiko/pipsi
+
+
