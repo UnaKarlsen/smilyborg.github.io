@@ -22,3 +22,10 @@
 * http://www.fe.co.za/
 * http://www.miro.co.za/
 * https://scoop.co.za/
+
+## Home Brewing
+* http://beerguevara.com/
+* https://www.beerlab.co.za/
+
+## Honey
+* http://www.brotherbeeshoney.com/
