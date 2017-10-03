@@ -1,0 +1,8 @@
+title: Borg Life
+description: Technical Diary of a lonesome Borg
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
