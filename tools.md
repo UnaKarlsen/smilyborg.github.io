@@ -71,3 +71,14 @@
 * pipsi - https://github.com/mitsuhiko/pipsi
 
 
+* Sigrok https://sigrok.org/
+* PulseView https://sigrok.org/wiki/PulseView
+
+* GnuRadio https://www.gnuradio.org/ https://wiki.gnuradio.org/index.php/Guided_Tutorials
+* RTL-SDR http://osmocom.org/projects/sdr/wiki/rtl-sdr
+* http://gqrx.dk/
+* https://brmlab.cz/user/jenda/kukuruku
+* https://www.sigidwiki.com/wiki/Signal_Identification_Guide
+
+
+* circuit.js http://www.falstad.com/circuit/circuitjs.html
