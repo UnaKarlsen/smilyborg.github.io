@@ -16,7 +16,7 @@
 * https://www.adafruit.com/
 * http://www.seeedstudio.com/
 * https://www.sparkfun.com/
-
+* https://www.diyelectronics.co.za/store/
 
 ## Networking
 * http://www.fe.co.za/
