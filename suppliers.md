@@ -17,6 +17,7 @@
 * http://www.seeedstudio.com/
 * https://www.sparkfun.com/
 * https://www.diyelectronics.co.za/store/
+* http://www.hackvana.com/store/
 
 ## Networking
 * http://www.fe.co.za/
