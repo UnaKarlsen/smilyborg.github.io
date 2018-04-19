@@ -13,6 +13,7 @@
 * http://www.communica.co.za/
 * http://www.avnet.co.za/
 * http://diyelectronics.co.za/store/
+* http://www.giga.co.za
 * https://www.adafruit.com/
 * http://www.seeedstudio.com/
 * https://www.sparkfun.com/
