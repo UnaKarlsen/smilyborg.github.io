@@ -3,3 +3,5 @@
 * LNA4ALL http://lna4all.blogspot.ie/
 * RTL-SDR https://www.rtl-sdr.com
 * Homemade LNA http://rtl-sdr.sceners.org/?p=159
+
+https://www.qrp-labs.com/ultimate3/u3s.html 
