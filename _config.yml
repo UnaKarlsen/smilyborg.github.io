@@ -2,7 +2,7 @@ title: Borg Life
 description: Technical Diary of a lonesome Borg
 google_analytics: 
 show_downloads: false
-remote_theme: Phlow/feeling-responsive
+remote_theme: phlow.github.io/feeling-responsive/
 
 gems:
   - jekyll-mentions
