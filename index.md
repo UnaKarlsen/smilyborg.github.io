@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: blog
 ---
 <ul>
   {% for post in site.posts %}
