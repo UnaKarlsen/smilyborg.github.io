@@ -66,6 +66,26 @@ arrl.org
 amsat.org
 http://qrparci.org/
 
+# SDR
+* https://github.com/cn0xroot/RFSec-ToolKit
+* https://www.sdr-radio.com/Software/Version3
+* https://github.com/pavels/spektrum
+* https://github.com/scateu/kalibrate-hackrf
+* https://github.com/steve-m/kalibrate-rtl
+* https://github.com/jopohl/urh
+* 
+
+# GnuRadio
+* https://github.com/gnuradio/pybombs
+* https://github.com/gnuradio/gr-recipes
+* https://github.com/gnuradio/gr-etcetera
+* https://github.com/matt-knight/gr-lora
+* https://github.com/daniestevez/gr-satellites
+* https://github.com/satnogs/gr-satnogs
+* https://github.com/osmocom/gr-osmosdr
+* https://github.com/gnuradio/gr-inspector
+* 
+
 
 Ultimate WSPR 3s Kit https://www.qrp-labs.com/
 

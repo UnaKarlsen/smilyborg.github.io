@@ -6,15 +6,15 @@
 * Design and build modular Desk/Workbench for Electronics and Ham Radio
 * Assemble electronics tools for Electronics Workbench
  - Rig PSUs 
- - Lab PSUs
+ - Lab PSUs - Got 2 switching supplies from Communica
  - Osciloscope - Got Siglent 
- - Logic Analyser - Analog Discovery 2 Pro ?
- - JTAG/Debug interface - Bus Pirate
+ - Logic Analyser - Got Analog Discovery 2 Pro
+ - JTAG/Debug interface - Bus Pirate, Black Magic Probe?
  - DMM 
- - Soldering Station - TS100 + Hakko?
+ - Soldering Station - Magnum. Still want a TS100 
  - Antenna Analyser
  - SDRs
- - RF Noise source - moRFeus
+ - RF Noise source - moRFeus - ordered
  - Directional Coupler
  - RF power meter
  - SWR Meter
