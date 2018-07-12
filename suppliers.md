@@ -19,6 +19,8 @@
 * https://www.sparkfun.com/
 * https://www.diyelectronics.co.za/store/
 * http://www.hackvana.com/store/
+* https://oshpark.com/
+* http://dirtypcbs.com/store/pcbs
 
 ## Networking
 * http://www.fe.co.za/
